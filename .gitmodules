@@ -1,0 +1,3 @@
+[submodule "blox.partial.nav.quiz"]
+	path = blox.partial.nav.quiz
+	url = https://github.com/richjava/blox.partial.nav.quiz.git
